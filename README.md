@@ -16,11 +16,11 @@ a passionate computer science engineering student with a love for programming an
 <!--Research Field: **Machine Learning, Micro-services, FinTech**.-->
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=arikaafrinboshra" alt="arikaafrinboshra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nurjahan044" alt="arikaafrinboshra" /> </p>
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nurjahan044&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan044a&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurjahan044&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&margin-w=200" />
 </div>
 <br>
 <br>
